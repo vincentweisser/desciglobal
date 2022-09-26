@@ -17,5 +17,4 @@ This is the repo for the [desci.global](https://desci.global) website, a resourc
 
 You can make a event submission [through this form](https://desci.global/event-submission) and email johannes[at]molecule.to if you have questions, or make a pull request on github if you want to improve the page.
 
-*Initiated and maintainted with love by the [Molecule team 💙](https://www.molecule.to/about-us)*
-
+Contributors: Johannes and Vincent [Molecule team](https://www.molecule.to/about-us) 
